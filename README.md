@@ -1,4 +1,4 @@
-# Roll a die in private.
+# test Roll a die in private.
 # Report what you rolled.
 # We pay you what you report.
 #
